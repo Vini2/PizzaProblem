@@ -2,7 +2,7 @@
 
 **Problem Statement:**<br>
 
-A group of students are studying for CS 4532 exam. The students can study only while eating pizza. Each student executes the following loop:
+A group of students are studying for an exam. The students can study only while eating pizza. Each student executes the following loop:
 ```
 while (true) {
      pick up a slice of pizza; 
