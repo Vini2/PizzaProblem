@@ -1,4 +1,5 @@
-# PizzaProblem
+# The Pizza Problem
+## Concurrent Programming
 
 **Problem Statement:**<br>
 
